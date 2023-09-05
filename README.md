@@ -133,4 +133,4 @@ $ git clone [тут наш адрес]
 Сейчас настало время немного позапускать различные, уже подготовленные коды для лучшего понимания работы Python, а затем порешать задачи.
 
 Если готовы, идем сюда:
-[Python Colab](https://colab.research.google.com/drive/1eS12Ot760M_NLGRchkXa8YEnEvWS5QSN?usp=sharing) 🙂
+[Python Colab](https://drive.google.com/file/d/1EzB_QT2jZtir16o2T8JwS_Lfb7tXbNEX/view?usp=sharing) 🙂
