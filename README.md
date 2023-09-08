@@ -35,6 +35,59 @@
 
 На Linux уже стоит Python с версией 2.х. Поэтому для запуска в терминале необходимо выполнить команду `python3`.
 
+### PIP
+
+pip — система управления пакетами, которая используется для установки и управления программными пакетами, написанными на Python. Много пакетов можно найти в Python Package Index (PyPI).
+
+Начиная с версии Python 2.7.9 и Python 3.4, они содержат пакет pip (или pip3 для Python 3) по умолчанию.
+
+Иногда может случиться так, что данной системы у вас не будет. Ее наличие можно проверить с помощью запуска команды
+
+```
+$ pip #На Windows
+#или
+$ pip3 #Linux, macOS
+```
+
+Если вы увидите что-то наподобии такого
+
+```
+$ pip
+
+Usage:
+  pip <command> [options]
+
+Commands:
+  install                     Install packages.
+  download                    Download packages.
+  uninstall                   Uninstall packages.
+  freeze                      Output installed packages in requirements format.
+  list                        List installed packages.
+  show                        Show information about installed packages.
+  check                       Verify installed packages have compatible dependencies.
+  config                      Manage local and global configuration.
+  search                      Search PyPI for packages.
+  cache                       Inspect and manage pip's wheel cache.
+  index                       Inspect information available from package indexes.
+  wheel                       Build wheels from your requirements.
+  hash                        Compute hashes of package archives.
+  completion                  A helper command used for command completion.
+  debug                       Show information useful for debugging.
+  help                        Show help for commands.
+```
+то он у вас есть. В противном случае будет ошибка.
+ 
+ Чтобы поставить какою-либу библиотеку, например ***numpy***, используйте
+
+ ```
+ $ pip install numpy
+ ```
+
+ Если системы pip у вас нет, установить ее можно следующим образом
+
+ ```
+ $ curl https://bootstrap.pypa.io/get-pip.py | python
+ ```
 ## <a id="title2">Создание локального репозитория в Git</a>
 
 Локальный репозиторий - это папка нв вашем компьютере. Она является клоном той, что находится на сервере Git. Есть два пути создания:
