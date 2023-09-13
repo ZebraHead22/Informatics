@@ -277,4 +277,8 @@ $ rm -r <dirname>
 [Занятие 1](https://drive.google.com/file/d/1KUoDy-zwxpWnNYQZ7AY__kyufB3TK26V/view?usp=sharing)  
 [Занятие 2](https://drive.google.com/file/d/1gb1GyT20E7jV6EX2fO3yMqRszHoM9oa3/view?usp=sharing)
 
-## Куда отправлять домашнее задание
+**Важно!**  
+Домашние задания загружить на СДО, в самом низу страницы есть ссылка.
+В качестве ответа принимаются только(!) файлы *.py*.
+Оценка *зачет* означает, что Вы получили 1 балл за эту домашнюю работу.
+Прогресс по баллам можно узнать по [ссылке](https://disk.yandex.ru/i/_dWE4vXe4SHPaQ).
