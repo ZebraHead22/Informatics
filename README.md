@@ -282,4 +282,4 @@ $ rm -r <dirname>
 В качестве ответа принимаются только(!) файлы *.py*.
 Оценка *зачет* означает, что Вы получили 1 балл за эту домашнюю работу.
 Прогресс по баллам можно узнать по [ссылке](https://disk.yandex.ru/i/_dWE4vXe4SHPaQ).  
-Код писать только в соответствии со принятый стандартом [PEP-8](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html)!
+Код писать только в соответствии с принятым стандартом [PEP-8](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html)!
