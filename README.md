@@ -190,6 +190,7 @@ $ git push -u origin main
 
 ### Вариант номер два
 
+
 Идем на [GitHub](https://github.com) и создаем там новый репозиторий. Указываем тип (приватный или публичный), пишем описание (опционально), проверяем ReadMe и .gitignore. Затем жмакаем кнопку **Code** и копируем адрем. После этого идем в терминал git. 
 Выбираем ту директорию, где хотим хранить локальную версию и выполняем команду
 
@@ -275,3 +276,5 @@ $ rm -r <dirname>
 
 [Занятие 1](https://drive.google.com/file/d/1KUoDy-zwxpWnNYQZ7AY__kyufB3TK26V/view?usp=sharing)  
 [Занятие 2](https://drive.google.com/file/d/1gb1GyT20E7jV6EX2fO3yMqRszHoM9oa3/view?usp=sharing)
+
+## Куда отправилять домашку
