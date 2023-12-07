@@ -314,6 +314,9 @@ $ rm -r <dirname>
 [Занятие 12](https://drive.google.com/file/d/1OwssiiCHJ7IMtUiC7GL9rS0pA9ecrH7c/view?usp=sharing)  
 [Занятие 13](https://drive.google.com/file/d/1gCmOQ7N7OHTPBCbSaY8IT5Rf3ySF3ZLK/view?usp=sharing)  
 
+### Примечание к занятию 13.
+Чтобы скачать Qt Designer перейдите по [ссылке](https://build-system.fman.io/qt-designer-download), там же найдете основные примеры по разработке кода.
+
 **Важно!**  
 Домашние задания загружать на СДО, в самом низу страницы есть ссылка.
 Пример названия файла: `Baranov_MA_03_1.py`, где 03 - последние числа в номере группы, а 1 - номер домашней работы.  
