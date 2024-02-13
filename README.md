@@ -282,7 +282,7 @@ $ ls -l
 $ mkdir <dirname>
 ```
 6.  Удаление файлов (аккуратно! особенно для линуксов)
-![rm linux](sad_men.png)
+![rm linux](./.pictures/sad_men.png)
 ```
 $ rm <filename >
 ```
