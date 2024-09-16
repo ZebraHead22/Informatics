@@ -277,7 +277,6 @@ git clone [тут наш адрес]
 [Занятие 12](https://drive.google.com/file/d/1OwssiiCHJ7IMtUiC7GL9rS0pA9ecrH7c/view?usp=sharing)  
 [Занятие 13](https://drive.google.com/file/d/1gCmOQ7N7OHTPBCbSaY8IT5Rf3ySF3ZLK/view?usp=sharing)  
 
-### Примечание к занятию 13
 
 ### Как получить доступ к занятиям
 
@@ -301,6 +300,12 @@ git clone [тут наш адрес]
 5. Теперь кнопка "Открыть" трансформировалась в "Открыть в приложении Google Colaboratoty". Нажимаем!
    
 ![2](./assets/24.png)
+
+
+### Примечание к занятию 13
+
+Скачать Qt Designer можно по [ссылке](https://build-system.fman.io/qt-designer-download).
+
 # Exams
 
 ### Чтобы получить допуск к экзамену, необходимо:
