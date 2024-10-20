@@ -26,3 +26,28 @@ for i in range(n):
     column_3.append(arr[i][2])
 
 print(max(column_3))
+
+#Функции генераторы
+#Подход 2
+def generate_squares(n):
+  for x in range(n):
+    yield x**2
+
+for i in generate_squares(5):
+  print(i, end=' | ')
+
+gen = generate_squares(5)
+print(next(gen))
+print(next(gen))
+print(next(gen))
+print(next(gen))
+print(next(gen))
+print(next(gen))
+
+#Подход 1
+l = [1, 2, 3, 4, 5]
+iter_list = iter(list(map(lambda x: x**2, l)))
+
+print(next(iter_list))
+print(next(iter_list))
+print(next(iter_list))
