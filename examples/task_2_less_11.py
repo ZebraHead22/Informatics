@@ -14,5 +14,6 @@ import pandas as pd
 
 
 df = pd.read_csv('../files/NISPUF17.csv', sep=',')
+df = df.dropna(subset=['P_NUMFLU'])
 bm = df.groupby('CBF_01')['P_NUMFLU'].mean()
 print(round(float(bm[1]), 1), round(float(bm[2]), 1))
