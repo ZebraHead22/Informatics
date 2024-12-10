@@ -276,6 +276,7 @@ git clone [тут наш адрес]
 [Занятие 11](https://drive.google.com/file/d/1BoWpDhZmcoz6F3K-kIflu5lQY2e2ea6_/view?usp=sharing)  
 [Занятие 12](https://drive.google.com/file/d/1OwssiiCHJ7IMtUiC7GL9rS0pA9ecrH7c/view?usp=sharing)  
 [Занятие 13](https://drive.google.com/file/d/1gCmOQ7N7OHTPBCbSaY8IT5Rf3ySF3ZLK/view?usp=sharing)  
+[КР](https://colab.research.google.com/drive/16Yo4ogCIfEe1VBdmZ0132m8cGXAi8_rS?usp=sharing)  
 
 
 ### Как получить доступ к занятиям
