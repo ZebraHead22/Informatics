@@ -1,4 +1,4 @@
-# Form implementation generated from reading ui file '/Users/max/Yandex.Disk.localized/Courses/Informatics/Informatics/examples/qt/gui.ui'
+# Form implementation generated from reading ui file 'gui.ui'
 #
 # Created by: PyQt6 UI code generator 6.7.1
 #
