@@ -275,7 +275,17 @@ git clone [тут наш адрес]
 [Занятие 10](https://drive.google.com/file/d/1QXPMB1MXfZG4R-BHIJv4HvJ4ZA2ukkXN/view?usp=sharing)  
 [Занятие 11](https://drive.google.com/file/d/1BoWpDhZmcoz6F3K-kIflu5lQY2e2ea6_/view?usp=sharing)  
 [Занятие 12](https://drive.google.com/file/d/1OwssiiCHJ7IMtUiC7GL9rS0pA9ecrH7c/view?usp=sharing)  
+
+### Инструкция по установке PyQt6
+1. В терминале команду
+`pip install pyqt6`;
+2. Команда `pip install --upgrade PyQt6`;
+3. Запуск скрипта `uic.py` из папки *examples/qt*.
+
+
 [Занятие 13](https://drive.google.com/file/d/1gCmOQ7N7OHTPBCbSaY8IT5Rf3ySF3ZLK/view?usp=sharing)  
+
+### Контрольные работы
 [КР_4931101/40001](https://colab.research.google.com/drive/1USM-Hf6pv5wJ_eTbqZDiTEcBvYybjve_?usp=sharing)    
 [КР_4931101/40002](https://colab.research.google.com/drive/1MCQSMjhlOb1pyo2zDtsWzLueLr9I-47a?usp=sharing)    
 [КР_4931101/40003](https://colab.research.google.com/drive/16Yo4ogCIfEe1VBdmZ0132m8cGXAi8_rS?usp=sharing)     
@@ -320,10 +330,9 @@ git clone [тут наш адрес]
 5. Решить все предлагаемые преподавателем задачи; На занятии может быть несколько задач, необходимо решить любые 3 (или 2, если их 2). Домашнее задание необходмо в виде отдельного файла `lesson_n.py` загрузить на github (`n` - номер домашнего задания).    
 
 Если студент не решает поставленные перед ним задачи про программированию, эти задачи переносятся на время выполнения контрольной работы.
-    Решить контрольную работу.
 
-По [ссылке](https://disk.yandex.ru/i/65Y7tI30vEX0SQ) можно проверить степень сдачи домашних работ.
+6. Решить контрольную работу.
 
 ### Экзамен проходит следующим образом:
 
-Если студент получил допуск, он отвечает на 2 теоретических вопроса письменно. Оценка за экзамен ставится после собеседования с преподавателем.
+Если студент получил допуск, он отвечает на 2 вопроса письменно + код. Оценка за экзамен ставится после собеседования с преподавателем.
