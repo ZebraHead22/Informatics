@@ -281,7 +281,7 @@ git clone [тут наш адрес]
 `pip install pyqt6`;
 2. Команда `pip install --upgrade PyQt6`;
 3. Запуск скрипта `uic.py` из папки *examples/qt*.
-4. Из папки *programms* скачать установочный файл Qt Designer для вашей системы: `.exe` для Windows, `.dmg` - для MacOS.
+4. На сайте [(ссылка)](https://build-system.fman.io/qt-designer-download)  скачать установочный файл Qt Designer для вашей системы: `.exe` для Windows, `.dmg` - для MacOS.
 
 [Занятие 13](https://drive.google.com/file/d/1gCmOQ7N7OHTPBCbSaY8IT5Rf3ySF3ZLK/view?usp=sharing)  
 
