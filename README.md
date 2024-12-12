@@ -290,7 +290,7 @@ git clone [тут наш адрес]
 [КР_4931101/40002](https://colab.research.google.com/drive/1MCQSMjhlOb1pyo2zDtsWzLueLr9I-47a?usp=sharing)    
 [КР_4931101/40003](https://colab.research.google.com/drive/16Yo4ogCIfEe1VBdmZ0132m8cGXAi8_rS?usp=sharing)     
 
-
+w
 ### Как получить доступ к занятиям
 
 Все практические занятия выполнены в среде Coogle Colaboratory. Это специальный сервис, позволящий запускать код Python на удаленной машине. Чтобы все работало, необходимо:  
